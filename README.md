@@ -32,3 +32,8 @@ No unnecessary decorative elements
 Plenty of white space for readability
 
 Simple, flat design without gradients or shadows
+
+Link to my Github repo : https://github.com/Oduor-Vincent/HTML-CSS-Portfolio-Website-Hackathon-1.git
+
+My name is: Vincent Oduor
+Email : oduorvincent9157@gmail.com
